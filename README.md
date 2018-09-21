@@ -24,3 +24,5 @@ js文件，可看到控制台输出：Server running at http://127.0.0.1:8888/
 区别开，以防冲突。
 
 3、如果是初次使用node.js 进行编译，你可能会遇到下列错误，但是不要害怕，这是因为你可能把js的文件名打错或者没有进入目标文件所在目录进行编译
+<img src="https://upload-images.jianshu.io/upload_images/7324746-b3902a290d24ca77.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1000/format/webp">
+<img src="https://upload-images.jianshu.io/upload_images/7324746-532f6a797ad90cc1.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1000/format/webp">
